@@ -69,7 +69,7 @@ st.write('**Date**: 2023-08-22')
 st.write('**Purpose**: Doctor concierge.')
 
 # Gitlink
-st.write('**Github repo**: https://github.com/aaronlutkowitz2/genai_app_hcls_general')
+st.write('**Github repo**: https://github.com/bcc103/genai_app_hcls_general')
 
 # Video
 st.divider()
