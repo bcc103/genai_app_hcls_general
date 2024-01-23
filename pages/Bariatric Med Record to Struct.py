@@ -61,7 +61,7 @@ st.write('**Date**: 2023-06-21')
 st.write('**Purpose**: Hospital needs to know if a patient has ever had a history of bariatric surgery at another hospital system, by reviewing a patient\'s CCDA document.')
 
 # Gitlink
-st.write('**Github repo**: https://github.com/aaronlutkowitz2/genai_app_hcls_general')
+st.write('**Github repo**: https://github.com/bcc103/genai_app_hcls_general')
 
 # Video
 st.divider()
