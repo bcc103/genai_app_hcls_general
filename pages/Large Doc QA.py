@@ -91,7 +91,7 @@ st.write('**Date**: 2023-08-16')
 st.write('**Purpose**: Use DocAI + Generative AI + ScaNN to answer a question against a large document')
 
 # Gitlink
-st.write('**Github repo**: https://github.com/aaronlutkowitz2/genai_app_hcls_general')
+st.write('**Github repo**: https://github.com/bcc103/genai_app_hcls_general')
 
 # Video
 st.divider()
