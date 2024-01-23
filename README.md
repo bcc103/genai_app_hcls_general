@@ -7,7 +7,7 @@ A sample application that shows off Generative AI use cases for Healthcare / Lif
 Select a directory to clone repo into
 
 ```bash
-git clone https://github.com/aaronlutkowitz2/genai_app_hcls_general 
+git clone https://github.com/bcc103/genai_app_hcls_general 
 cd genai_app_hcls_general/
 ```
 
