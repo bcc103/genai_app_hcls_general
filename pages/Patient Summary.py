@@ -141,7 +141,7 @@ def section1_pull_context_files():
 
     # Storage
     storage_client = storage.Client()
-    bucket_name = 'hcls_genai'
+    bucket_name = 'hcls_genai2'
     path = 'patient_summary/'
     file_name = "fake_patient_context v4.txt"
     full_file_name = path + file_name
