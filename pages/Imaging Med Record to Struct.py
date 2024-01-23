@@ -58,7 +58,7 @@ st.write('**Date**: 2023-06-22')
 st.write('**Purpose**: Data science models needs to take in radiologist imaging summary & convert that to many yes/no labels for data science training.')
 
 # Gitlink
-st.write('**Github repo**: https://github.com/aaronlutkowitz2/genai_app_hcls_general')
+st.write('**Github repo**: https://github.com/bcc103/genai_app_hcls_general')
 
 # Video
 st.divider()
