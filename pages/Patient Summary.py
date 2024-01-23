@@ -58,7 +58,7 @@ st.write('**Purpose**: Generate Patient Summary')
 
 # Gitlink
 # st.write('**Go Link (Googlers)**: go/hclsgenai')
-st.write('**Github repo**: https://github.com/aaronlutkowitz2/genai_app_hcls_general')
+st.write('**Github repo**: https://github.com/bcc103/genai_app_hcls_general')
 
 # Video
 st.divider()
